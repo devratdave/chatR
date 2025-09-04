@@ -1,6 +1,6 @@
 <h1 align="center">✨ <b><i>chatR</i></b> - The Fullstack Chat & Video Calling App ✨</h1>
 
-![Demo App](/public/screenshot-for-readme.png)
+![Demo App](/public/thumbnail.png)
 
 Highlights:
 
